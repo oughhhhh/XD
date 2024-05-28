@@ -1,6 +1,9 @@
-![изображение](https://github.com/oughhhhh/XD/assets/142888166/fcc43cd7-8ac6-4621-b51e-dc843b840bf0)
+![изображение](https://github.com/oughhhhh/XD/assets/142888166/6701b0b0-0c60-4b3d-804d-206414420413)
+Оверлей можно выбрать тут
 
-Параметры запуска (для discord/mumle оверлея)
+WINDOW овердей работает только в полноэкранном окне (windowed fullscreen)
+
+Параметры запуска (для DISCORD оверлея)
 ```
 -allow_third_party_software -sw
 ```
