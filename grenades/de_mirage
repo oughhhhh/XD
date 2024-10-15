@@ -1,0 +1,35 @@
+Smoke "Window Mid" "D + Jumpthrow" 1383.47 70.97 -159.97 -27.50 -163.70
+Smoke "Top Con" "Simple" 343.30 -621.62 -155.07 -41.14 -150.95
+
+Smoke "Top Con" "Crouch + W till rails + Jumpthrow" 1422.97 34.47 -159.96 -28.35 -150.06
+Smoke "Jungle && con" "Simple" 815.97 -1422.04 -108.97 -27.13 -172.67
+Smoke "Stairs" "Simple" 1147.30 -1183.97 -205.57 -42.98 -165.59
+Smoke "CT" "Jumpthrow" 871.84 -1036.10 -251.91 -12.19 -142.08
+
+Smoke "Market" "Jumpthrow" -160.03 887.97 -135.27 -50.93 -147.06
+Smoke "Edward" "Simple" -160.03 887.99 -135.27 -44.02 -134.55 -1
+
+Smoke "Short" "Simple" 360.05 -692.00 -162.43 -23.65 160.90
+Smoke "Left B arch" "Jumpthrow" 445.97 571.97 -257.97 -55.54 -166.19
+Smoke "Bottom con" "Jumpthrow" 1135.64 647.62 -261.05 -40.09 -140.55
+Smoke "Jungle" "Simple" -31.92 -1418.00 -167.91 -69.66 -177.28 2
+Smoke "Kitchen" "Simple" -2325.31 812.54 -119.66 -16.15 -94.34
+
+Molotov "Under palace" "+W trow" 63.49 -1418.03 -175.91 -4.19 -112.938
+Molotov "Under palace" "+W until arch" 568.044 -2224.03 -39.9688 -9.66998 -164.48
+Molotov "Top mid" "+W trow" -1247.97f -759.969 -128.969 -18.9869 0.533689
+Molotov "Tetris" "Simple" -1119.97 -1527.97 -159.049 -14.7189 -0.855292
+Molotov "Firebox" "Simple" -30.4689 -1418.03 -167.969 -19.1299 -137.948 0
+Molotov "Ticket" "Jumpthrow" -30.4688 -1418.03 -167.969 4.03628 -133.695 -1
+Molotov "Ninjas" "Simple" -30.4688 -1418.03 -167.969 -17.6338 -106.182 -2
+Molotov "Pit" "+W over firebox" -889.552 -2355.71 -167.969 -16.7867 43.9708
+Molotov "Chair" "Shift + w (one step)" -1042.92 295.972 -159.969 -11.7487 -57.7953
+Molotov "Default" "Simple" -1547.98 -2407.97 -240.011 -19.8007 12.9647
+Molotov "B apps" "Jumpthrow" -2198.97 89.0289 -159.969 7.524 44.0112
+Molotov "Triple" "Jumpthrow" -1024.03 -2284.56 -167.969 -6.391 -31.5588
+
+Flash "firebox pop" "Simple" -692.383 -2146.24 -179.969 6.88494 115.641
+Flash "Pit pop" "Simple" 151.968750 -1914.039795 -163.968750 -34.473331 -105.170891
+Flash "Connector" "Simple" 360.070953 -691.968750 -164.384232 -12.113376 -174.486679
+Flash "Middle" "+W Jumpthrow" -740.433472 -2127.440430 -180.591949 -3.305114 81.180084
+Flash "Window" "+W" -983.766968 540.000122 -79.906189 -8.634461 145.776688
